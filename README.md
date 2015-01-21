@@ -13,7 +13,7 @@ https://www.kaggle.com/c/digit-recognizer
 
 Report:
 
-  https://github.com/WaitingLin/IKDD_Project/blob/master/IKDD_Project.pptx
+ https://github.com/WaitingLin/IKDD_Project/blob/master/IKDD_FinalProject.pptx
 
 
 
