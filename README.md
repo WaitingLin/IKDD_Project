@@ -13,7 +13,7 @@ knn_benchmark.R run完結果在 knn_benchmark_3.csv
 
 Report:
 
-IKDD_Project.pptx
+https://github.com/WaitingLin/IKDD_Project/blob/master/IKDD_Project.pptx
 
 
 
